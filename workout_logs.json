@@ -1,0 +1,42 @@
+[
+    {
+        "date": "2025-10-13",
+        "goal": "strength",
+        "equipment": "dumbbells",
+        "workouts": [
+            "push-ups",
+            "Squats",
+            "Planks"
+        ],
+        "reps": {
+            "Push-ups": 20,
+            "Squats": 30,
+            "Planks": "30 sec"
+        },
+        "difficulty": "medium"
+    },
+    {
+        "date": "2025-10-14",
+        "goal": [
+            "strength",
+            "core"
+        ],
+        "equipment": [
+            "dumbells",
+            "no_equipment"
+        ],
+        "workouts": [
+            "Squats",
+            "Planks",
+            "Bikcycle-Kicks",
+            "6 Inches"
+        ],
+        "reps": {
+            "Squats": 30,
+            "Planks": "60 sec",
+            "Bickcycle-Kicks": "3 reps of 5",
+            "6 Inches": "5 reps of 5"
+        },
+        "difficulty": "easy"
+    }
+]
