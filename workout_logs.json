@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "date": "2025-10-13",
+=======
+        "date": "2025-10-20",
+>>>>>>> 558d384 (Initial project setup)
         "goal": "strength",
         "equipment": "dumbbells",
         "workouts": [
@@ -16,6 +20,7 @@
         "difficulty": "medium"
     },
     {
+<<<<<<< HEAD
         "date": "2025-10-14",
         "goal": [
             "strength",
@@ -23,20 +28,54 @@
         ],
         "equipment": [
             "dumbells",
+=======
+        "date": "2025-10-20",
+        "goal": "strength",
+        "core": "core",
+        "equipment": [
+            "dumbbells",
+>>>>>>> 558d384 (Initial project setup)
             "no_equipment"
         ],
         "workouts": [
             "Squats",
             "Planks",
+<<<<<<< HEAD
             "Bikcycle-Kicks",
+=======
+            "Bicycle Kicks",
+>>>>>>> 558d384 (Initial project setup)
             "6 Inches"
         ],
         "reps": {
             "Squats": 30,
             "Planks": "60 sec",
+<<<<<<< HEAD
             "Bickcycle-Kicks": "3 reps of 5",
             "6 Inches": "5 reps of 5"
         },
         "difficulty": "easy"
+=======
+            "Bicycle Kicks": "3 reps of 5",
+            "6 Inches": "5 reps of 5"
+        },
+        "difficulty": "easy"
+    },
+    {
+        "date": "2025-10-20",
+        "goal": "fat loss",
+        "equipment": "no_equipment",
+        "workouts": [
+            "Burpees",
+            "Jump Squats",
+            "Mountain Climbers"
+        ],
+        "reps": {
+            "Burpees": 15,
+            "Jump Squats": 20,
+            "Mountain Climbers": "30 sec"
+        },
+        "difficulty": "hard"
+>>>>>>> 558d384 (Initial project setup)
     }
 ]
